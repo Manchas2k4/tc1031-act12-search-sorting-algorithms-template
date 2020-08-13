@@ -1,4 +1,4 @@
-# Act 1.1 - Funciones Iterativas, Recursivas y su análisis de Complejidad
+# Act 1.2 - Algoritmos de Búsqueda y Ordenamiento
 
 ## <span style="color: rgb(26, 99, 169);">¿Qué tengo que hacer?</span> 
 Realiza una aplicación en C++ en <span style="text-decoration: underline;">forma individual</span>,  en donde dado **n** numeros de entrada que son almacenados en un **vector<int>** realice las siguientes funciones:
