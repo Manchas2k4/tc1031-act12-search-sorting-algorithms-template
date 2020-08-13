@@ -3,66 +3,6 @@
 ## <span style="color: rgb(26, 99, 169);">¿Qué tengo que hacer?</span> 
 Realiza una aplicación en C++ en <span style="text-decoration-line: underline;">forma individual</span>,&nbsp; que calculé la sumatora de **1 hasta n** y llame a tres funciones:
 
-<table style="height: 10px; width: 0%; border-collapse: collapse; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid;" border="1">
-<tbody>
-<tr style="height: 24px;">
-<td style="width: 30%; height: 10px; background-color: rgb(25, 99, 169);" rowspan="5"><span style="font-size: 18pt; color: rgb(255, 255, 255);">sumaIterativa</span></td>
-<td style="width: 0px; height: 0px; background-color: rgb(0, 139, 247);">Descripción</td>
-<td style="width: 0px; height: 0px; background-color: rgb(183, 219, 255);">
-Calcule la sumatoria de 1 hasta n con un metodo iterativo.
-</td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 0px; height: 0px; background-color: rgb(0, 139, 247);">Entrada</td>
-<td style="width: 0px; height: 0px; background-color: rgb(183, 219, 255);">Un entero positivo (n)</td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 0px; height: 0px; background-color: rgb(0, 139, 247);">Salida</td>
-<td style="width: 0px; height: 0px; background-color: rgb(183, 219, 255);">La sumatoria de 1 hasta n</td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 0px; height: 0px; background-color: rgb(0, 139, 247);"><span style="color: rgb(0, 0, 0);">Precondición</span></td>
-<td style="width: 0px; height: 0px; background-color: rgb(183, 219, 255);"><span style="color: rgb(0, 0, 0);">n es un entero positivo</span></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 0px; height: 10px; background-color: rgb(0, 139, 247);"><span style="color: rgb(0, 0, 0);">Postcondición</span></td>
-<td style="width: 0px; height: 10px; background-color: rgb(183, 219, 255);"><span style="color: rgb(0, 0, 0);">Nada</span></td>
-</tr>
-</tbody>
-</table>
-
-<br>
-
-<table style="height: 10px; width: 0%; border-collapse: collapse; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid;" border="1">
-<tbody>
-<tr style="height: 24px;">
-<td style="width: 30%; height: 10px; background-color: rgb(25, 99, 169);" rowspan="5"><span style="font-size: 18pt; color: rgb(255, 255, 255);">sumaRecursiva</span></td>
-<td style="width: 0px; height: 0px; background-color: rgb(0, 139, 247);">Descripción</td>
-<td style="width: 0px; height: 0px; background-color: rgb(183, 219, 255);">
-Calcule la sumatoria de 1 hasta n con un metodo recursivo.
-</td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 0px; height: 0px; background-color: rgb(0, 139, 247);">Entrada</td>
-<td style="width: 0px; height: 0px; background-color: rgb(183, 219, 255);">Un entero positivo (n)</td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 0px; height: 0px; background-color: rgb(0, 139, 247);">Salida</td>
-<td style="width: 0px; height: 0px; background-color: rgb(183, 219, 255);">La sumatoria de 1 hasta n</td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 0px; height: 0px; background-color: rgb(0, 139, 247);"><span style="color: rgb(0, 0, 0);">Precondición</span></td>
-<td style="width: 0px; height: 0px; background-color: rgb(183, 219, 255);"><span style="color: rgb(0, 0, 0);">n es un entero positivo</span></td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 0px; height: 10px; background-color: rgb(0, 139, 247);"><span style="color: rgb(0, 0, 0);">Postcondición</span></td>
-<td style="width: 0px; height: 10px; background-color: rgb(183, 219, 255);"><span style="color: rgb(0, 0, 0);">Nada</span></td>
-</tr>
-</tbody>
-</table>
-
-<br>
-
 <table style="height: 30px; width: 0%; border-collapse: collapse; border-style: solid;" border="1">
 <tbody>
 <tr style="height: 24px;">
