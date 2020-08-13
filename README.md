@@ -1,6 +1,6 @@
 # Act 1.2 - Algoritmos de Búsqueda y Ordenamiento
 
-## <span style="color: rgb(26, 99, 169);">¿Qué tengo que hacer?</span> 
+## <span style="color: rgb(26, 99, 169);">¿Qué tengo que hacer?</span>
 Realiza una aplicación en C++ en <span style="text-decoration: underline;">forma individual</span>,  en donde dado **n** numeros de entrada que son almacenados en un **vector<int>** realice las siguientes funciones:
 
 <table style="height: 30px; width: 0%; border-collapse: collapse; border-style: solid;" border="1">
@@ -9,7 +9,7 @@ Realiza una aplicación en C++ en <span style="text-decoration: underline;">form
 <td style="width: 33.7684%; height: 30px; background-color: #1963a9;" rowspan="5"><span style="font-size: 18pt; color: #ffffff;">ordenaEnumeracion</span></td>
 <td style="width: 12.3888%; height: 10px; background-color: #008bf7;">Descripci&oacute;n</td>
 <td style="width: 53.7118%; height: 10px; background-color: #b7dbff;">
-<p>Ordene en forma ascendente los datos con el m&eacute;todo de Intercambio</p>
+<p>Ordene en forma ascendente los datos con el m&eacute;todo de enumeraci&oacute;</p>
 </td>
 </tr>
 <tr style="height: 24px;">
@@ -30,7 +30,7 @@ Realiza una aplicación en C++ en <span style="text-decoration: underline;">form
 </tr>
 </tbody>
 </table>
-<br />La idea b&aacute;sica del algoritmo basado en el ordenamiento por enumeraci&oacute;n es encontrar la posici&oacute;n final de cada elemento. La posici&oacute;n final de un elemento a<sub>i</sub> se calcula comparando cada elementos con todos los dem&aacute;s elementos, a<sub>j</sub>, del vector y encontrado el n&uacute;mero de elementos que son menores. Si a<sub>i </sub>== a<sub>j</sub>, se considera que a<sub>i</sub> es menor a a<sub>j</sub>, si i &lt; j.<br /><br />
+<br />La idea b&aacute;sica del algoritmo basado en el ordenamiento por enumeraci&oacute;n es encontrar la posici&oacute;n final de cada elemento. La posici&oacute;n final de un elemento a<sub>i</sub> se calcula comparando cada elementos con todos los dem&aacute;s elementos, a<sub>j</sub>, del vector y encontrado el n&uacute;mero de elementos que son menores. Si a<sub>i </sub>== a<sub>j</sub>, se considera que a<sub>i</sub> es menor a a<sub>j</sub>, si i &gt; j.<br /><br />
 
 <table style="height: 30px; width: 0%; border-collapse: collapse; border-style: solid;" border="1">
 <tbody>
@@ -68,12 +68,12 @@ Realiza una aplicación en C++ en <span style="text-decoration: underline;">form
 ## <span style="color: rgb(26, 99, 169);">**¿Bajo qué criterios se evalúa mi evidencia?**</span>
 
 - **70%** - Para cada una de las funcionalidades se evaluará:
-        
+
     - **Excelente (70%)** - pasa correctamente todos los casos de prueba.
     - **Muy Bien (55%)** - pasa correctamente el 75% de los casos de prueba.
     - **Bien (40%)** - pasa correctamente el 50% de los casos de prueba.
     - **Insuficiente (25%)** - pasa correctamente menos del 50% de los casos de prueba.
-    
+
 
 - **10%** - El código deberá seguir los lineamientos estipulados en el estándar de codificación: <span class="instructure_file_holder link_holder">[liga_estándar_codificación](estandar.pdf)</span>
 - **10%** - Se respetenan los nombres de las funciones en la aplicación.
@@ -81,4 +81,3 @@ Realiza una aplicación en C++ en <span style="text-decoration: underline;">form
 
 ## <span style="color: rgb(26, 99, 169);">**¿Dónde la entrego?**</span>
 Entrega los archivos correspondientes de la actividad, en la sección correspondiente dentro de esta plataforma.
-
