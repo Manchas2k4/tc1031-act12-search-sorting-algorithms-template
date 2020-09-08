@@ -12,18 +12,18 @@ La primerá línea se desplegará el número de comparaciones que cada algoritmo
 Después, se imprimirán *q* línea (uno por cada valor a buscar) mostrando la posición, cantidad de comparaciones de la búsqueda secuencial y la cantidad de comparaciones de la búsqueda binaria, separadas por espacios.
 
 ## <span style="color: rgb(26, 99, 169);">**Ejemplo de entrada**</span>
-8
-10 4 8 12 20 15 54 18
-4
-20 54 100 12
+8 <br>
+10 4 8 12 20 15 54 18 <br>
+4 <br>
+20 54 100 12 <br>
 
 ## <span style="color: rgb(26, 99, 169);">**Ejemplo de salida**</span>
-28 18 14
-
-6 7 3
-7 8 4
--1 8 4
-3 4 1
+28 18 14<br>
+<br>
+6 7 3<br>
+7 8 4<br>
+-1 8 4<br>
+3 4 1<br>
 
 ## <span style="color: rgb(26, 99, 169);">**¿Bajo qué criterios se evalúa mi evidencia?**</span>
 
