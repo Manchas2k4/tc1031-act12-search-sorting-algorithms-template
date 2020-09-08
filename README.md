@@ -1,7 +1,29 @@
 # Act 1.2 - Algoritmos de Búsqueda y Ordenamiento
 
 ## <span style="color: rgb(26, 99, 169);">¿Qué tengo que hacer?</span>
-Realiza una aplicación en C++ en <span style="text-decoration: underline;">forma individual</span>. La aplicación deberá leer *n* datos, ordenarlos, indicar la cantidad de comparaciones de cada uno de los tres algoritmos de ordenamientos básicos realizan (burbuja, selection, inserción), posteriormente deberá leer *q* valores, mostrando la posición donde se encuentra el valor en el arreglo ordenado (-1 en caso de que no se encuentre) y la cantidad de comparaciones que hizo tanto por la búsqueda secuencial como por la búsqueda binaria. 
+Realiza una aplicación en C++ en <span style="text-decoration: underline;">forma individual</span>. La aplicación deberá leer *n* datos, ordenarlos, indicar la cantidad de comparaciones de cada uno de los tres algoritmos básicos de ordenamiento realizan (burbuja, selection, inserción), posteriormente deberá leer *q* valores, mostrando la posición donde se encuentra el valor en el arreglo ordenado (-1 en caso de que no se encuentre) y la cantidad de comparaciones que hizo tanto por la búsqueda secuencial como por la búsqueda binaria. 
+
+## <span style="color: rgb(26, 99, 169);">**Entrada**</span>
+La primera línea contiene un número entero positivo *n* (300 <= *n* <= 500) que indica el número de elementos a leer. A continuación, *n* números enteros enteros. Después vendrá una línea con un valor, *q*, indicando el cantidad de números a buscar y en la siguiente línea los *q* a búscar.
+
+## <span style="color: rgb(26, 99, 169);">**Salida**</span>
+La primerá línea se desplegará el número de comparaciones que cada algoritmo básico de ordenamiento realizó (burbuja, selection, inserción), separados por espacios.
+
+Después, se imprimirán *q* línea (uno por cada valor a buscar) mostrando la posición, cantidad de comparaciones de la búsqueda secuencial y la cantidad de comparaciones de la búsqueda binaria, separadas por espacios.
+
+## <span style="color: rgb(26, 99, 169);">**Ejemplo de entrada**</span>
+8
+10 4 8 12 20 15 54 18
+4
+20 54 100 12
+
+## <span style="color: rgb(26, 99, 169);">**Ejemplo de salida**</span>
+28 18 14
+
+6 7 3
+7 8 4
+-1 8 4
+3 4 1
 
 ## <span style="color: rgb(26, 99, 169);">**¿Bajo qué criterios se evalúa mi evidencia?**</span>
 
