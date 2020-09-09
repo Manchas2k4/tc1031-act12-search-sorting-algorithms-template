@@ -18,12 +18,12 @@ Después, se imprimirán *q* línea (uno por cada valor a buscar) mostrando la p
 20 54 100 12 <br>
 
 ## <span style="color: rgb(26, 99, 169);">**Ejemplo de salida**</span>
-28 18 14<br>
+5 5 5<br>
 <br>
-6 7 3<br>
-7 8 4<br>
--1 8 4<br>
-3 4 1<br>
+6 7 3 <br>
+7 8 4 <br>
+-1 8 4 <br>
+3 4 1 <br>
 
 ## <span style="color: rgb(26, 99, 169);">**¿Bajo qué criterios se evalúa mi evidencia?**</span>
 
