@@ -7,7 +7,7 @@ Realiza una aplicación en C++ en <span style="text-decoration: underline;">form
 La primera línea contiene un número entero positivo *n* (300 <= *n* <= 500) que indica el número de elementos a leer. A continuación, *n* números enteros enteros. Después vendrá una línea con un valor, *q*, indicando el cantidad de números a buscar y en la siguiente línea los *q* a búscar.
 
 ## <span style="color: rgb(26, 99, 169);">**Salida**</span>
-La primerá línea se desplegará el número de comparaciones que cada algoritmo básico de ordenamiento realizó (burbuja, selection, inserción), separados por espacios.
+La primera línea se desplegará el número de comparaciones que cada algoritmo básico de ordenamiento realizó (burbuja, selection, inserción), separados por espacios.
 
 Después, se imprimirán *q* línea (uno por cada valor a buscar) mostrando la posición, cantidad de comparaciones de la búsqueda secuencial y la cantidad de comparaciones de la búsqueda binaria, separadas por espacios.
 
