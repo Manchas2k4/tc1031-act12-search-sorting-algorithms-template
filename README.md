@@ -2,7 +2,7 @@
 # Act 1.2 - Algoritmos de Búsqueda y Ordenamiento
 
 ## <span style="color: rgb(26, 99, 169);">¿Qué tengo que hacer?</span>
-Accede a la siguiente liga: HTTP y acepta la tarea. Esto creará tu repositorio de trabajo. En él, encontrarás los archivos "search.h", "bubble.h", "selection.h", "insertion.h" y "main.cpp", los cuales Deberás modificar para el desarrollo de esta actividad. En el archivo "main.cpp", deberás colocar en la parte superior, en comentarios, tus datos. Por ejemplo:
+Accede a la siguiente liga: HTTP y acepta la tarea. Esto creará tu repositorio de trabajo. En él, encontrarás los archivos "search.h", "bubble.h", "selection.h", "insertion.h" y "main.cpp", los cuales deberás modificar para el desarrollo de esta actividad. En el archivo "main.cpp", deberás colocar en la parte superior, en comentarios, tus datos. Por ejemplo:
 ```
 // =========================================================
 // File: main.cpp
@@ -17,7 +17,7 @@ Implementa, <span style="text-decoration: underline;">forma individual</span>, u
 La primera línea contiene un número entero positivo *n* (300 <= *n* <= 500) que indica el número de elementos a leer. A continuación, *n* números enteros enteros. Después vendrá una línea con un valor, *q*, indicando el cantidad de números a buscar y en la siguiente línea los *q* a buscar.
 
 ## <span style="color: rgb(26, 99, 169);">**Salida**</span>
-La primera línea se desplegará el número de comparaciones que cada algoritmo básico de ordenamiento realizó (burbuja, selection, inserción), separados por espacios.
+La primera línea se desplegará el número de comparaciones que cada algoritmo básico de ordenamiento realizó (burbuja, selección, inserción), separados por espacios.
 
 Después, se imprimirán *q* línea (uno por cada valor a buscar) mostrando la posición, cantidad de comparaciones de la búsqueda secuencial y la cantidad de comparaciones de la búsqueda binaria, separadas por espacios.
 
