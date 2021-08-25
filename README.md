@@ -22,18 +22,22 @@ La primera línea se desplegará el número de comparaciones que cada algoritmo 
 Después, se imprimirán *q* línea (uno por cada valor a buscar) mostrando la posición, cantidad de comparaciones de la búsqueda secuencial y la cantidad de comparaciones de la búsqueda binaria, separadas por espacios.
 
 ## <span style="color: rgb(26, 99, 169);">**Ejemplo de entrada**</span>
-8 <br>
-10 4 8 12 20 15 54 18 <br>
-4 <br>
-20 54 100 12 <br>
+```
+8
+10 4 8 12 20 15 54 18
+4
+20 54 100 12
+```
 
 ## <span style="color: rgb(26, 99, 169);">**Ejemplo de salida**</span>
-5 5 5<br>
-<br>
-6 7 3 <br>
-7 8 4 <br>
--1 8 4 <br>
-3 4 1 <br>
+```
+5 5 5
+
+6 7 3
+7 8 4
+-1 8 4
+3 4 1
+```
 
 Para probar tu implementación, compila tu programa con el comando:
 ```
@@ -44,7 +48,7 @@ Posteriormente, prueba con cada uno de los archivos de entrada de prueba que enc
 ./app < input1.txt > mysolution1.txt
 diff mysolution1.txt solution1.txt
 ```
-Si el segundo comando no tenga ninguna salida, sabrás que los resultados que obtuviste son los esperados.
+Si el segundo comando no tiene ninguna salida, los resultados que obtuviste son los esperados.
 
 ## <span style="color: rgb(26, 99, 169);">**¿Bajo qué criterios se evalúa mi evidencia?**</span>
 
