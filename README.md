@@ -54,10 +54,10 @@ Si el segundo comando no tiene ninguna salida, los resultados que obtuviste son 
 
 - **90%** - Para cada una de las funcionalidades se evaluará:
 
-    - **Excelente (80%)** - pasa correctamente todos los casos de prueba.
-    - **Muy Bien (60%)** - pasa correctamente el 75% de los casos de prueba.
-    - **Bien (40%)** - pasa correctamente el 50% de los casos de prueba.
-    - **Insuficiente (20%)** - pasa correctamente menos del 50% de los casos de prueba.
+    - **Excelente (100%)** - pasa correctamente todos los casos de prueba.
+    - **Muy Bien (80%)** - pasa correctamente el 75% de los casos de prueba.
+    - **Bien (60%)** - pasa correctamente el 50% de los casos de prueba.
+    - **Insuficiente (40%)** - pasa correctamente menos del 50% de los casos de prueba.
 
 
 - **10%** - El código deberá seguir los lineamientos estipulados en el estándar de codificación: <span class="instructure_file_holder link_holder">[liga_estándar_codificación](estandar.pdf)</span>
