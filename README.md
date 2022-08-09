@@ -2,7 +2,7 @@
 # Act 1.2 - Algoritmos de Búsqueda y Ordenamiento
 
 ## <span style="color: rgb(26, 99, 169);">¿Qué tengo que hacer?</span>
-Accede a la siguiente liga: [Act 1.2](https://classroom.github.com/a/_p1TZJEC) y acepta la tarea. Esto creará tu repositorio de trabajo. En él, encontrarás los archivos "search.h", "bubble.h", "selection.h", "insertion.h" y "main.cpp", los cuales deberás modificar para el desarrollo de esta actividad. En el archivo "main.cpp", deberás colocar en la parte superior, en comentarios, tus datos. Por ejemplo:
+En este repositorio encontrarás los archivos "search.h", "bubble.h", "selection.h", "insertion.h" y "main.cpp", los cuales deberás modificar para el desarrollo de esta actividad. En el archivo "main.cpp", deberás colocar en la parte superior, en comentarios, tus datos. Por ejemplo:
 ```
 // =========================================================
 // File: main.cpp
