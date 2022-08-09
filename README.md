@@ -2,7 +2,7 @@
 # Act 1.2 - Algoritmos de Búsqueda y Ordenamiento
 
 ## <span style="color: rgb(26, 99, 169);">¿Qué tengo que hacer?</span>
-En este repositorio encontrarás los archivos "search.h", "bubble.h", "selection.h", "insertion.h" y "main.cpp", los cuales deberás modificar para el desarrollo de esta actividad. En el archivo "main.cpp", deberás colocar en la parte superior, en comentarios, tus datos. Por ejemplo:
+En este repositorio de trabajo encontrarás los archivos "search.h", "bubble.h", "selection.h", "insertion.h" y "main.cpp", los cuales deberás modificar para el desarrollo de esta actividad. En el archivo "main.cpp", deberás colocar en la parte superior, en comentarios, tus datos. Por ejemplo:
 ```
 // =========================================================
 // File: main.cpp
